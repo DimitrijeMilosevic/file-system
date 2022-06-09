@@ -1,0 +1,3 @@
+Prilikom testiranja jedan od fajlova treba preimenovati u ulaz.dat i prekopirati u izvrsni direktorijum.
+Fajlovi izlaz1.dat i izlaz2.dat su rezultat izvrsavanja javnog testa i treba da budu identicni ulaznom fajlu. 
+(Prilikom otvaranja promeniti ekstenziju izlaznog fajla u prvobitnu - txt ili jpg)
